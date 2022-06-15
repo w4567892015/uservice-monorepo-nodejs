@@ -1,0 +1,15 @@
+{
+  "packages": [
+    "packages/*",
+    "apps/*"
+  ],
+  "command": {
+    "version": {
+      "allowBranch": ["releases/*"],
+      "message": "chore(release): publish [ci skip]"
+    }
+  },
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}

@@ -1,0 +1,11 @@
+.pipeline
+.vagrant
+Vagrantfile
+pipeline
+doc
+docs
+scripts
+bin
+logs
+README.md
+node_modules
